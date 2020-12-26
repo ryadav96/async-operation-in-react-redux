@@ -1,8 +1,8 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 
 class PostList extends Component {
   render() {
-    return <div>Post List</div>
+    return <div>Post List</div>;
   }
 }
 
